@@ -37,7 +37,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.xinSC</string>
+				<string>com.famillelab.weixinSC</string>
 				<key>bundle-version</key>
 				<string>6.1.1</string>
 				<key>kind</key>
